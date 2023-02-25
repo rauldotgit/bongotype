@@ -17,8 +17,8 @@ Learning purpose of this app is to practice using React Hooks and Tailwind styli
     - [:bulb: What I learned](#bulb-what-i-learned)
     - [:mountain\_bicyclist: Continued development](#mountain_bicyclist-continued-development)
     - [:cake: Useful resources](#cake-useful-resources)
-  - [:pencil: Author](#pencil-author)
-  - [:star: Acknowledgments](#star-acknowledgments)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -66,9 +66,9 @@ Possible added features:
 ### :cake: Useful resources
 
 
-## :pencil: Author
+## Author
 
 - Github - [Rauldotgit](https://github.com/rauldotgit/)
 
-## :star: Acknowledgments
+## Acknowledgments
 
