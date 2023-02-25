@@ -1,4 +1,4 @@
-# Bongotype :cat: - Monkeytype speed typing clone using React + Tailwind
+# Bongotype :ghost: - Monkeytype speed typing clone using React + Tailwind
 
 Bongotoype is a Monkeytype style typing game using React and Tailwind. Goal of the game is to type freely or type shown words as fast and precise as possible.
 
@@ -6,7 +6,7 @@ Learning purpose of this app is to practice using React Hooks and Tailwind styli
 
 ## :book: Table of contents
 
-- [Bongotype :cat: - Monkeytype speed typing clone using React + Tailwind](#bongotype-cat---monkeytype-speed-typing-clone-using-react--tailwind)
+- [Bongotype :ghost: - Monkeytype speed typing clone using React + Tailwind](#bongotype-ghost---monkeytype-speed-typing-clone-using-react--tailwind)
   - [:book: Table of contents](#book-table-of-contents)
   - [Overview](#overview)
     - [:mount\_fuji: The challenge](#mount_fuji-the-challenge)
